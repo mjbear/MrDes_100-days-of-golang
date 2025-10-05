@@ -1,6 +1,6 @@
-## 100 Days of Go lang
+## 100 Days of Golang
 
-Go lang is a programming language which is easier to write and even provides type and memory safety, garbage collection and structural typing. It is developed by the Google Team in 2009 and open sourced in 2012. It is a programming language made for Cloud native technologies and web applications. It is a general purpose programming lanugage and hence there are no restrictions on the type of programs you wish to make in it.
+Golang (Go) is a programming language which is easier to write and even provides type and memory safety, garbage collection and structural typing. It is developed by the Google Team in 2009 and open sourced in 2012. It is a programming language made for Cloud native technologies and web applications. It is a general purpose programming lanugage and hence there are no restrictions on the type of programs you wish to make in it.
 
 - [Official Website](https://go.dev)
 - [GitHub repository](https://github.com/golang/go)
