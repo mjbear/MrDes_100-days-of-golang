@@ -4,7 +4,7 @@ Golang (Go) is a programming language which is easier to write and even provides
 
 - [Official Website](https://go.dev)
 - [GitHub repository](https://github.com/golang/go)
-- [Standaard Library](https://pkg.go.dev/std)
+- [Standard Library](https://pkg.go.dev/std)
 - [Go packages](https://pkg.go.dev/)
 - [Awesome Go projects and frmaeworks](https://github.com/avelino/awesome-go)
 
