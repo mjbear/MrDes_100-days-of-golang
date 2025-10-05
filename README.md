@@ -17,7 +17,7 @@ Golang (Go) is a programming language which is easier to write and even provides
 - [Zetcode Blog](https://zetcode.com/all/#go)
 - [daily.dev Golang articles](https://app.daily.dev/search?q=golang)
 
-Some famous applications made with GO!
+Some famous applications made with Go!
 
 |Web apps | DevOps tools | CLI tools |
 |---------|--------------|-----------|
@@ -34,7 +34,7 @@ Some famous applications made with GO!
 | Day | Topic | Blog Link | Code Examples | Documentation Link |
 |-----|-------|-----------|---------------|--------------------|
 |  0  | Overview of Golang | [What and Why? Golang](https://www.meetgor.com/golang-intro/) | [README](https://github.com/Mr-Destructive/100-days-of-golang#readme) | [docs](https://go.dev/ref/spec) |
-|  1  | Setup and Installation | [Installation and Hello World: GO](https://www.meetgor.com/hello-golang/) | [hello](https://github.com/Mr-Destructive/100-days-of-golang/tree/main/scripts/hello-world) | [installation docs](https://go.dev/learn/) |
+|  1  | Setup and Installation | [Installation and Hello World: Go](https://www.meetgor.com/hello-golang/) | [hello](https://github.com/Mr-Destructive/100-days-of-golang/tree/main/scripts/hello-world) | [installation docs](https://go.dev/learn/) |
 |  2  | Varaibles and Data Types | [Data Types in Golang](https://www.meetgor.com/golang-variables/) | [varaibles](https://github.com/Mr-Destructive/100-days-of-golang/tree/main/scripts/variables) | [Varaibles](https://go.dev/ref/spec#Variables) and [Types](https://go.dev/ref/spec#Types) |
 |  3  | Conditionals and Loops | [Conditionals and Loops in Golang](https://www.meetgor.com/golang-conditionals-loops/) | [conditionals](https://github.com/Mr-Destructive/100-days-of-golang/tree/main/scripts/conditionals) / [loops](https://github.com/Mr-Destructive/100-days-of-golang/tree/main/scripts/loops) | [if else](https://go.dev/ref/spec#If_statements) |
 |  4  | Input | [Input in Golang](https://www.meetgor.com/golang-input/) | [input](https://github.com/Mr-Destructive/100-days-of-golang/tree/main/scripts/input) | [Scan](https://pkg.go.dev/fmt@go1.19.1#Scan) |
