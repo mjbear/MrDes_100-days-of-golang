@@ -23,7 +23,7 @@ Some famous applications made with GO!
 |---------|--------------|-----------|
 |[SoundCloud](https://developers.soundcloud.com/blog/go-at-soundcloud) - Music System|[Prometheus](https://github.com/prometheus/prometheus) - Monitoring system and time series database|[gh-cli](https://github.com/cli/cli) - Official Github CLI
 |[Uber](https://www.slideshare.net/RobSkillington/go-at-uber) - Ride Sharing/Cab booking Webapp|[Grafana](https://github.com/grafana/grafana) - Platform for monitoring and observability|[cockroach-db](https://github.com/cockroachdb/cockroach) - Cockroach DB CLI
-|[Allergo](https://github.com/allegro/marathon-consul/#marathon-consul) - E-Commerce Webaapp|[Terraform](https://github.com/hashicorp/terraform) - Building, Changing, and Versioning Infrastructure|[gtree](https://github.com/ddddddO/gtree) - File tree CLI 
+|[Allergo](https://github.com/allegro/marathon-consul/#marathon-consul) - E-Commerce Webapp|[Terraform](https://github.com/hashicorp/terraform) - Building, Changing, and Versioning Infrastructure|[gtree](https://github.com/ddddddO/gtree) - File tree CLI 
 ||[Minikube](https://github.com/kubernetes/minikube) - Run kubernetes locally| [jenkinscli](https://github.com/jenkins-zh/jenkins-cli) - Managing Jenkins from CLI 
 ||[Kit](https://github.com/go-kit/kit) - standard library for microservices
 
