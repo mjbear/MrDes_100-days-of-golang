@@ -21,7 +21,7 @@ Some famous applications made with GO!
 
 |Web apps | DevOps tools | CLI tools |
 |---------|--------------|-----------|
-|[SoundCloud](https://developers.soundcloud.com/blog/go-at-soundcloud) - Music System|[Prometheus](https://github.com/prometheus/prometheus) - Monitoring system and time series database|[gh-cli](https://github.com/cli/cli) - Official Github CLI
+|[SoundCloud](https://developers.soundcloud.com/blog/go-at-soundcloud) - Music System|[Prometheus](https://github.com/prometheus/prometheus) - Monitoring system and time series database|[gh-cli](https://github.com/cli/cli) - Official GitHub CLI
 |[Uber](https://www.slideshare.net/RobSkillington/go-at-uber) - Ride Sharing/Cab booking Webapp|[Grafana](https://github.com/grafana/grafana) - Platform for monitoring and observability|[cockroach-db](https://github.com/cockroachdb/cockroach) - Cockroach DB CLI
 |[Allergo](https://github.com/allegro/marathon-consul/#marathon-consul) - E-Commerce Webapp|[Terraform](https://github.com/hashicorp/terraform) - Building, Changing, and Versioning Infrastructure|[gtree](https://github.com/ddddddO/gtree) - File tree CLI 
 ||[Minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally| [jenkinscli](https://github.com/jenkins-zh/jenkins-cli) - Managing Jenkins from CLI 
